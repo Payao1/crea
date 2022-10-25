@@ -1,0 +1,47 @@
+#block-page
+{
+    background-color: rgb(245, 40, 40);
+    width: 1220px;
+    height: 1255px;
+}
+.box
+{
+position: absolute;
+top:350px;
+}
+.box img
+{
+    width: 700px;
+}
+.case
+{
+padding-right:200px;
+}
+.case img
+{
+    width: 1000px;
+    height: 600px;
+}
+.cow
+{
+padding-left:500px;
+padding-bottom: 500px;
+position: relative;
+bottom: 700px;
+}
+.cow img
+{
+    width: 400px;
+    height: 400px;
+}
+.bee
+{
+position: relative;
+ padding-top:-500px; 
+ left:280px; 
+ top:-100px; 
+}
+.text
+{
+    padding: 100px;
+}
